@@ -1,0 +1,6 @@
+Walk the dog, incomplete, high
+Physics lab, incomplete, medium
+Study today’s Lecture, complete, low
+Clean the house, complete, high
+Learn Python Code, incomplete, low
+
